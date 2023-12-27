@@ -1,3 +1,3 @@
 # Landing-page
 
-Live Preview of the Site : https://sunny-side-app.netlify.app/
+Live Preview of the Site : https://harshgajera101.github.io/Landing-page/
